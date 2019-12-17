@@ -12,6 +12,8 @@ return array(
         'Hwi',
         'Art',
         'Artcats',
+        'Artcats1',
+        'Artcats2',
     ),
 
     // These are various options for the listeners attached to the ModuleManager
